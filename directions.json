@@ -1,0 +1,341 @@
+{
+    "route":{
+       "hasTollRoad":False,
+       "hasBridge":False,
+       "boundingBox":{
+          "lr":{
+             "lng":-77.05159,
+             "lat":38.842518
+          },
+          "ul":{
+             "lng":-77.091408,
+             "lat":38.894428
+          }
+       },
+       "distance":5.271,
+       "hasTimedRestriction":False,
+       "hasTunnel":False,
+       "hasHighway":True,
+       "computedWaypoints":[
+ 
+       ],
+       "routeError":{
+          "errorCode":-400,
+          "message":""
+       },
+       "formattedTime":"00:07:45",
+       "sessionId":"5f0b3ae0-00c1-4ee4-02b4-23a2-0ab6bd3bbe3b",
+       "hasAccessRestriction":False,
+       "realTime":-1,
+       "hasSeasonalClosure":False,
+       "hasCountryCross":False,
+       "fuelUsed":0.31,
+       "legs":[
+          {
+             "hasTollRoad":False,
+             "hasBridge":False,
+             "destNarrative":"",
+             "distance":5.271,
+             "hasTimedRestriction":False,
+             "hasTunnel":False,
+             "hasHighway":True,
+             "index":0,
+             "formattedTime":"00:07:45",
+             "origIndex":1,
+             "hasAccessRestriction":False,
+             "hasSeasonalClosure":False,
+             "hasCountryCross":False,
+             "roadGradeStrategy":[
+                [
+ 
+                ]
+             ],
+             "destIndex":-1,
+             "time":465,
+             "hasUnpaved":False,
+             "origNarrative":"Go east on N Clarendon Blvd.",
+             "maneuvers":[
+                {
+                   "distance":1.056,
+                   "streets":[
+                      "Clarendon Blvd"
+                   ],
+                   "narrative":"Start out going northeast on Clarendon Blvd toward N Danville St.",
+                   "turnType":0,
+                   "startPoint":{
+                      "lng":-77.091408,
+                      "lat":38.888451
+                   },
+                   "index":0,
+                   "formattedTime":"00:02:04",
+                   "directionName":"Northeast",
+                   "maneuverNotes":[
+ 
+                   ],
+                   "linkIds":[
+ 
+                   ],
+                   "signs":[
+ 
+                   ],
+                   "mapUrl":"http://open.mapquestapi.com/staticmap/v5/map?key=kkGeHlAl57IKFaffe28R2WBviZESqrNG&size=225,160&locations=38.888450622558594,-77.0914077758789|marker-1||38.89442825317383,-77.07389831542969|marker-2||&center=38.89143943786621,-77.0826530456543&defaultMarker=none&zoom=10&rand=1180697660&session=5f0b3ae0-00c1-4ee4-02b4-23a2-0ab6bd3bbe3b",
+                   "transportMode":"AUTO",
+                   "attributes":0,
+                   "time":124,
+                   "iconUrl":"http://content.mqcdn.com/mqsite/turnsigns/icon-dirs-start_sm.gif",
+                   "direction":3
+                },
+                {
+                   "distance":0.34,
+                   "streets":[
+                      "N Clarendon Blvd"
+                   ],
+                   "narrative":"Clarendon Blvd becomes N Clarendon Blvd.",
+                   "turnType":0,
+                   "startPoint":{
+                      "lng":-77.073898,
+                      "lat":38.894428
+                   },
+                   "index":1,
+                   "formattedTime":"00:01:07",
+                   "directionName":"East",
+                   "maneuverNotes":[
+ 
+                   ],
+                   "linkIds":[
+ 
+                   ],
+                   "signs":[
+ 
+                   ],
+                   "mapUrl":"http://open.mapquestapi.com/staticmap/v5/map?key=kkGeHlAl57IKFaffe28R2WBviZESqrNG&size=225,160&locations=38.89442825317383,-77.07389831542969|marker-2||38.89384841918945,-77.06829071044922|marker-3||&center=38.89413833618164,-77.07109451293945&defaultMarker=none&zoom=12&rand=1180697660&session=5f0b3ae0-00c1-4ee4-02b4-23a2-0ab6bd3bbe3b",
+                   "transportMode":"AUTO",
+                   "attributes":0,
+                   "time":67,
+                   "iconUrl":"http://content.mqcdn.com/mqsite/turnsigns/rs_straight_sm.gif",
+                   "direction":8
+                },
+                {
+                   "distance":2.283,
+                   "streets":[
+                      "VA-110 S",
+                      "N Jefferson Davis Hwy"
+                   ],
+                   "narrative":"N Clarendon Blvd becomes VA-110 S/N Jefferson Davis Hwy.",
+                   "turnType":0,
+                   "startPoint":{
+                      "lng":-77.068291,
+                      "lat":38.893848
+                   },
+                   "index":2,
+                   "formattedTime":"00:02:28",
+                   "directionName":"South",
+                   "maneuverNotes":[
+ 
+                   ],
+                   "linkIds":[
+ 
+                   ],
+                   "signs":[
+                      {
+                         "extraText":"",
+                         "text":"110",
+                         "type":545,
+                         "url":"http://icons.mqcdn.com/icons/rs545.png?n=110&d=SOUTH",
+                         "direction":4
+                      }
+                   ],
+                   "mapUrl":"http://open.mapquestapi.com/staticmap/v5/map?key=kkGeHlAl57IKFaffe28R2WBviZESqrNG&size=225,160&locations=38.89384841918945,-77.06829071044922|marker-3||38.865478515625,-77.05158996582031|marker-4||&center=38.87966346740723,-77.05994033813477&defaultMarker=none&zoom=8&rand=1180697660&session=5f0b3ae0-00c1-4ee4-02b4-23a2-0ab6bd3bbe3b",
+                   "transportMode":"AUTO",
+                   "attributes":128,
+                   "time":148,
+                   "iconUrl":"http://content.mqcdn.com/mqsite/turnsigns/rs_straight_sm.gif",
+                   "direction":4
+                },
+                {
+                   "distance":1.592,
+                   "streets":[
+                      "US-1 S",
+                      "S Jefferson Davis Hwy"
+                   ],
+                   "narrative":"Merge onto US-1 S/S Jefferson Davis Hwy via the exit on the left.",
+                   "turnType":11,
+                   "startPoint":{
+                      "lng":-77.05159,
+                      "lat":38.865479
+                   },
+                   "index":3,
+                   "formattedTime":"00:02:06",
+                   "directionName":"South",
+                   "maneuverNotes":[
+ 
+                   ],
+                   "linkIds":[
+ 
+                   ],
+                   "signs":[
+                      {
+                         "extraText":"",
+                         "text":"1",
+                         "type":2,
+                         "url":"http://icons.mqcdn.com/icons/rs2.png?n=1&d=SOUTH",
+                         "direction":4
+                      }
+                   ],
+                   "mapUrl":"http://open.mapquestapi.com/staticmap/v5/map?key=kkGeHlAl57IKFaffe28R2WBviZESqrNG&size=225,160&locations=38.865478515625,-77.05158996582031|marker-4||38.8425178527832,-77.0527114868164|marker-5||&center=38.8539981842041,-77.05215072631836&defaultMarker=none&zoom=8&rand=1180697660&session=5f0b3ae0-00c1-4ee4-02b4-23a2-0ab6bd3bbe3b",
+                   "transportMode":"AUTO",
+                   "attributes":128,
+                   "time":126,
+                   "iconUrl":"http://content.mqcdn.com/mqsite/turnsigns/rs_merge_left_sm.gif",
+                   "direction":4
+                },
+                {
+                   "distance":0,
+                   "streets":[
+ 
+                   ],
+                   "narrative":"SOUTH GLEBE ROAD.",
+                   "turnType":-1,
+                   "startPoint":{
+                      "lng":-77.052711,
+                      "lat":38.842518
+                   },
+                   "index":4,
+                   "formattedTime":"00:00:00",
+                   "directionName":"",
+                   "maneuverNotes":[
+ 
+                   ],
+                   "linkIds":[
+ 
+                   ],
+                   "signs":[
+ 
+                   ],
+                   "transportMode":"AUTO",
+                   "attributes":0,
+                   "time":0,
+                   "iconUrl":"http://content.mqcdn.com/mqsite/turnsigns/icon-dirs-end_sm.gif",
+                   "direction":0
+                }
+             ],
+             "hasFerry":False
+          }
+       ],
+       "options":{
+          "arteryWeights":[
+ 
+          ],
+          "cyclingRoadFactor":1,
+          "timeType":0,
+          "useTraffic":False,
+          "returnLinkDirections":False,
+          "countryBoundaryDisplay":True,
+          "enhancedNarrative":False,
+          "locale":"en_US",
+          "tryAvoidLinkIds":[
+ 
+          ],
+          "drivingStyle":2,
+          "doReverseGeocode":True,
+          "generalize":-1,
+          "mustAvoidLinkIds":[
+ 
+          ],
+          "sideOfStreetDisplay":True,
+          "routeType":"FASTEST",
+          "avoidTimedConditions":False,
+          "routeNumber":0,
+          "shapeFormat":"raw",
+          "maxWalkingDistance":-1,
+          "destinationManeuverDisplay":True,
+          "transferPenalty":-1,
+          "narrativeType":"text",
+          "walkingSpeed":-1,
+          "urbanAvoidFactor":-1,
+          "stateBoundaryDisplay":True,
+          "unit":"M",
+          "highwayEfficiency":22,
+          "maxLinkId":0,
+          "maneuverPenalty":-1,
+          "avoidTripIds":[
+ 
+          ],
+          "filterZoneFactor":-1,
+          "manmaps":"true"
+       },
+       "locations":[
+          {
+             "dragPoint":False,
+             "displayLatLng":{
+                "lng":-77.091415,
+                "lat":38.88847
+             },
+             "adminArea4":"Arlington County",
+             "adminArea5":"",
+             "postalCode":"22209",
+             "adminArea1":"US",
+             "adminArea3":"VA",
+             "type":"s",
+             "sideOfStreet":"N",
+             "geocodeQualityCode":"B1XXX",
+             "adminArea4Type":"County",
+             "linkId":55973779,
+             "street":"Clarendon Boulevard",
+             "adminArea5Type":"City",
+             "geocodeQuality":"STREET",
+             "adminArea1Type":"Country",
+             "adminArea3Type":"State",
+             "latLng":{
+                "lng":-77.091412,
+                "lat":38.888471
+             }
+          },
+          {
+             "dragPoint":False,
+             "displayLatLng":{
+                "lng":-77.052711,
+                "lat":38.842518
+             },
+             "adminArea4":"Arlington County",
+             "adminArea5":"",
+             "postalCode":"22206",
+             "adminArea1":"US",
+             "adminArea3":"VA",
+             "type":"s",
+             "sideOfStreet":"N",
+             "geocodeQualityCode":"B1XXX",
+             "adminArea4Type":"County",
+             "linkId":36418263,
+             "street":"South Glebe Road",
+             "adminArea5Type":"City",
+             "geocodeQuality":"STREET",
+             "adminArea1Type":"Country",
+             "adminArea3Type":"State",
+             "latLng":{
+                "lng":-77.052709,
+                "lat":38.842518
+             }
+          }
+       ],
+       "time":465,
+       "hasUnpaved":False,
+       "locationSequence":[
+          0,
+          1
+       ],
+       "hasFerry":False
+    },
+    "info":{
+       "statuscode":0,
+       "copyright":{
+          "imageAltText":"© 2020 MapQuest, Inc.",
+          "imageUrl":"http://api.mqcdn.com/res/mqlogo.gif",
+          "text":"© 2020 MapQuest, Inc."
+       },
+       "messages":[
+ 
+       ]
+    }
+ }
+ 
